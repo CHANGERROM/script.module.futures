@@ -13,7 +13,7 @@
     <description>Backport of the concurrent.futures package from Python 3.2</description>
     <platform>all</platform>
     <license>BSD</license>
-    <source>https://github.com/LS80/script.module.futures/CHANGERROM/script.module.futures-2.2.0-patch1</source>
+    <source>https://github.com/LS80/script.module.futures/CHANGERROM/script.module.futures-2.2.0+matrix.1-patch-1</source>
     <website>https://github.com/LS/80/script.module.futures</website>
   </extension>
 </addon>
